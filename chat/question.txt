@@ -1,0 +1,10 @@
+Description: Write a C++ program to find the maximum element in an array of integers. The program should take the array and its size as input and return the maximum element. Requirements: Generate a complete c++ program from the previous description, enclosing the code blocks in backquotes. n+1 numbers are entered in the first line, n is entered first, followed by n numbers, separated by Spaces. The output of the program only contains no characters other than the answer.
+7 2 3 1 4 6 5 0
+6
+Description: Implement a C++ program to find the longest common subsequence of two input strings using dynamic programming.  Requirements: Generate a complete c++ program from the previous description, enclosing the code blocks in backquotes.  The first line enters two strings, separated by Spaces. The output contains only the length of the longest common subsequence and not any other characters.
+abcde abce
+4
+Description: Implement a c++ program to compute a+b. Requirement: Generate a complete c++ program from the previous description, encasing the code blocks in backquotes. The input contains only numbers separated by two Spaces. The output contains only the answers. Don't output any extra statements.
+1 2
+3
+
