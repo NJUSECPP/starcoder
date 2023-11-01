@@ -109,3 +109,17 @@ To generate a few coding examples from your model, run:
 python generate.py --model_id path/to/your/model
 ```
 
+## Multiple rounds of dialogue
+
+### Compiler feedback
+
+```shell
+python tmp_gen_cpl.py --model_id path/to/your/model
+```
+
+### OJ feedback
+
+```shell
+python tmp_gen_oj.py --model_id path/to/your/model
+```
+
